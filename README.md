@@ -37,6 +37,7 @@
 - 只想看懂原理 → 读 [methodology/知识地图方法论.md](methodology/知识地图方法论.md)
 - 用智能体干活 → 装 [ai-skill/SKILL.md](ai-skill/SKILL.md)
 - 用网页版 ChatGPT → 复制 [ai-skill/知识地图搭建提示词.md](ai-skill/知识地图搭建提示词.md)
+- **想 1:1 体验同款画面** → 下载 [demo-vault/](demo-vault/使用说明.md) 文件夹，装 [Obsidian](https://obsidian.md)（免费）后「打开本地仓库文件夹」，图谱视图直接看效果
 
 ## 📮 找到我
 
