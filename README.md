@@ -2,7 +2,7 @@
 
 > 把 1386 份散落文件，变成一张 AI 智能体查得到的"外置大脑"。
 
-我是**听风声**，一名在校大学生。这里公开我的 Obsidian 知识地图方法论、真实项目成果卡，以及一个可以让 AI 帮你自动搭建同款知识地图的 **AI Skill**。
+我是**听风声**，一名在校大学生。这里公开我的 Obsidian 知识地图方法论、真实项目成果卡，以及**我实际用的那套搭建提示词**（在 ChatGPT 的 Codex 里把整套笔记写出来），另附一份给本机 AI 助手用的 Skill。
 
 > **关键词**：Obsidian 知识地图 · 第二大脑（Second Brain）· PKM 个人知识管理 · 知识图谱 · 双链笔记 · AI Agent 上下文记忆 · 知识库搭建教程 · 大学生项目作品集 ｜ Obsidian knowledge map · knowledge graph · AI agent memory · note-taking workflow
 
@@ -53,16 +53,16 @@
 ├── methodology/   方法论：怎么搭、怎么维护（人看的教程）
 ├── projects/      成果卡：我用这套系统管理的真实项目
 ├── demo-vault/    示例库：56 个节点的完整知识地图，Obsidian 打开即 1:1 体验同款画面
-├── ai-skill/      AI Skill + 万能提示词：让 AI 帮你自动搭同款
+├── ai-skill/      我实际用的搭建提示词（ChatGPT / Codex）+ 给本机 AI 助手的 Skill
 └── assets/        图片素材
 ```
 
 ## 🚀 快速开始
 
-- **零基础复刻同款** → 跟 [tutorial/保姆级搭建教程.md](tutorial/保姆级搭建教程.md)（1 小时，含截图）
+- **零基础复刻同款（推荐）** → 跟 [tutorial/保姆级搭建教程.md](tutorial/保姆级搭建教程.md)（1 小时，含截图）
+- **我实际用的路线** → 在 ChatGPT 的 Codex 里贴 [ai-skill/知识地图搭建提示词.md](ai-skill/知识地图搭建提示词.md)，让它一次写出整套笔记（这张地图就是这么来的）
 - 只想看懂原理 → 读 [methodology/知识地图方法论.md](methodology/知识地图方法论.md)
-- 用智能体干活 → 装 [ai-skill/SKILL.md](ai-skill/SKILL.md)
-- 用 ChatGPT / Codex（云端，零安装，作者走的就是这条）→ 复制 [ai-skill/知识地图搭建提示词.md](ai-skill/知识地图搭建提示词.md)
+- 想让本机 AI 助手直接写文件（我没亲测过）→ 装 [ai-skill/SKILL.md](ai-skill/SKILL.md)
 - **只想先看效果、还没决定要不要建（可选，30 秒）** → 下载 [demo-vault/](demo-vault/使用说明.md) 文件夹（**7 分类 · 12 项目 · 32 知识点 · 56 个节点**），装 [Obsidian](https://obsidian.md)（免费）后「打开本地仓库文件夹」，按 `Ctrl+G` 看图谱；**看完想删就删，和装 skill 建自己的库完全不冲突**
 
 ## 📮 找到我
