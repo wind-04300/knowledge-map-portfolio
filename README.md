@@ -18,7 +18,7 @@
 
 ![图谱视图](assets/shot-03-graph.jpg)
 
-> 🛠️ 想要同款？跟着 [tutorial/保姆级搭建教程.md](tutorial/保姆级搭建教程.md) 30 分钟复刻。
+> 🛠️ 想要同款？跟着 [tutorial/保姆级搭建教程.md](tutorial/保姆级搭建教程.md) 1 小时复刻（含国内加速下载）。
 
 ## 🎬 示例库图谱（可以直接下载体验）
 
@@ -49,7 +49,7 @@
 ## 📁 目录导航
 
 ```
-├── tutorial/      保姆级搭建教程：30 分钟从零复刻（含截图）
+├── tutorial/      保姆级搭建教程：1 小时从零复刻（含截图 + 国内加速下载）
 ├── methodology/   方法论：怎么搭、怎么维护（人看的教程）
 ├── projects/      成果卡：我用这套系统管理的真实项目
 ├── demo-vault/    示例库：56 个节点的完整知识地图，Obsidian 打开即 1:1 体验同款画面
@@ -59,7 +59,7 @@
 
 ## 🚀 快速开始
 
-- **零基础复刻同款** → 跟 [tutorial/保姆级搭建教程.md](tutorial/保姆级搭建教程.md)（30 分钟，含截图）
+- **零基础复刻同款** → 跟 [tutorial/保姆级搭建教程.md](tutorial/保姆级搭建教程.md)（1 小时，含截图）
 - 只想看懂原理 → 读 [methodology/知识地图方法论.md](methodology/知识地图方法论.md)
 - 用智能体干活 → 装 [ai-skill/SKILL.md](ai-skill/SKILL.md)
 - 用网页版 ChatGPT → 复制 [ai-skill/知识地图搭建提示词.md](ai-skill/知识地图搭建提示词.md)
