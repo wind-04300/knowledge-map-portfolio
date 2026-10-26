@@ -1,0 +1,12 @@
+# 私有仓与公开仓共用忽略规则
+# 缓存与临时文件
+.wechat_cache/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+# 本地凭据（绝不入库！）
+wechat_config.json
+*.secret
+*.token
+.env
