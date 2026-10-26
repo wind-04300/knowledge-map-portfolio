@@ -63,7 +63,7 @@
 - 只想看懂原理 → 读 [methodology/知识地图方法论.md](methodology/知识地图方法论.md)
 - 用智能体干活 → 装 [ai-skill/SKILL.md](ai-skill/SKILL.md)
 - 用网页版 ChatGPT → 复制 [ai-skill/知识地图搭建提示词.md](ai-skill/知识地图搭建提示词.md)
-- **想 1:1 体验同款画面** → 下载 [demo-vault/](demo-vault/使用说明.md) 文件夹（**7 分类 · 12 项目 · 32 知识点 · 56 节点**），装 [Obsidian](https://obsidian.md)（免费）后「打开本地仓库文件夹」，按 `Ctrl+G` 直接看图谱效果
+- **只想先看效果、还没决定要不要建（可选，30 秒）** → 下载 [demo-vault/](demo-vault/使用说明.md) 文件夹（**7 分类 · 12 项目 · 32 知识点 · 56 个节点**），装 [Obsidian](https://obsidian.md)（免费）后「打开本地仓库文件夹」，按 `Ctrl+G` 看图谱；**看完想删就删，和装 skill 建自己的库完全不冲突**
 
 ## 📮 找到我
 
