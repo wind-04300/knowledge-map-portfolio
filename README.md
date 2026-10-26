@@ -43,7 +43,7 @@
 ├── tutorial/      保姆级搭建教程：30 分钟从零复刻（含截图）
 ├── methodology/   方法论：怎么搭、怎么维护（人看的教程）
 ├── projects/      成果卡：我用这套系统管理的真实项目
-├── demo-vault/    示例库：Obsidian 打开即 1:1 体验同款画面
+├── demo-vault/    示例库：56 个节点的完整知识地图，Obsidian 打开即 1:1 体验同款画面
 ├── ai-skill/      AI Skill + 万能提示词：让 AI 帮你自动搭同款
 └── assets/        图片素材
 ```
@@ -54,7 +54,7 @@
 - 只想看懂原理 → 读 [methodology/知识地图方法论.md](methodology/知识地图方法论.md)
 - 用智能体干活 → 装 [ai-skill/SKILL.md](ai-skill/SKILL.md)
 - 用网页版 ChatGPT → 复制 [ai-skill/知识地图搭建提示词.md](ai-skill/知识地图搭建提示词.md)
-- **想 1:1 体验同款画面** → 下载 [demo-vault/](demo-vault/使用说明.md) 文件夹，装 [Obsidian](https://obsidian.md)（免费）后「打开本地仓库文件夹」，图谱视图直接看效果
+- **想 1:1 体验同款画面** → 下载 [demo-vault/](demo-vault/使用说明.md) 文件夹（**7 分类 · 12 项目 · 32 知识点 · 56 节点**），装 [Obsidian](https://obsidian.md)（免费）后「打开本地仓库文件夹」，按 `Ctrl+G` 直接看图谱效果
 
 ## 📮 找到我
 
