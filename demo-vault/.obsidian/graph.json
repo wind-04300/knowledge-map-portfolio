@@ -8,6 +8,13 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
+      "query": "path:\"分类\"",
+      "color": {
+        "a": 1,
+        "rgb": 26265
+      }
+    },
+    {
       "query": "path:\"项目\"",
       "color": {
         "a": 1,
@@ -15,17 +22,45 @@
       }
     },
     {
-      "query": "path:\"知识点\"",
+      "query": "path:\"知识点/硬件电子\"",
       "color": {
         "a": 1,
         "rgb": 2533215
       }
     },
     {
-      "query": "path:\"分类\"",
+      "query": "path:\"知识点/软件自动化\"",
       "color": {
         "a": 1,
-        "rgb": 26265
+        "rgb": 2845872
+      }
+    },
+    {
+      "query": "path:\"知识点/AI智能体\"",
+      "color": {
+        "a": 1,
+        "rgb": 8150230
+      }
+    },
+    {
+      "query": "path:\"知识点/内容创作\"",
+      "color": {
+        "a": 1,
+        "rgb": 14042492
+      }
+    },
+    {
+      "query": "path:\"知识点/学习方法\"",
+      "color": {
+        "a": 1,
+        "rgb": 14263296
+      }
+    },
+    {
+      "query": "path:\"源文件登记\"",
+      "color": {
+        "a": 1,
+        "rgb": 8947848
       }
     }
   ],
