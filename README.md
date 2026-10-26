@@ -4,6 +4,8 @@
 
 我是**听风声**，一名在校大学生。这里公开我的 Obsidian 知识地图方法论、真实项目成果卡，以及一个可以让 AI 帮你自动搭建同款知识地图的 **AI Skill**。
 
+> **关键词**：Obsidian 知识地图 · 第二大脑（Second Brain）· PKM 个人知识管理 · 知识图谱 · 双链笔记 · AI Agent 上下文记忆 · 知识库搭建教程 · 大学生项目作品集 ｜ Obsidian knowledge map · knowledge graph · AI agent memory · note-taking workflow
+
 ![知识地图](assets/cover_map.png)
 
 ## 📸 效果一览（我的真实界面）
